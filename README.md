@@ -5,8 +5,7 @@ This project applies machine learning to group customers based on their characte
 
 ## How to Run
 1. Clone this repository:
-2. Install the required Python packages:
-   Run this Command in Terminal: pip install -r requirements.txt
+2. Install the required Python packages: pip install -r requirements.txt
 3. Open the Jupyter notebook and run all cells to perform the analysis.
 
 
